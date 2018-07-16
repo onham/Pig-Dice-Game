@@ -1,5 +1,4 @@
 # Pig-Dice-Game
-A game of dice - first to 100 wins!
 
 This simple game allows two players to take turns rolling dice to accrue up to a set score. If a player rolls and both dice have a value of 1, their current score is nulled and their turn will end.
  
